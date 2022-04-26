@@ -1,0 +1,9 @@
+Interpretted:
+
+1. Dont Have intermediate language conversion
+2. Interpretted Language are executed line by Line.
+
+
+Compiled:
+
+1. Compile to some intermediate language (ByteCode)
