@@ -1,4 +1,4 @@
-# Getting Started with Create React App Mayank
+# Getting Started with Create React App Sample
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
