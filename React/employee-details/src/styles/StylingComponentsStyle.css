@@ -1,0 +1,14 @@
+h1#sample.sample {
+    color: grey;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-top: 20px;
+}
