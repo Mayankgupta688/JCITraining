@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import Component from "./components/WorkingWithEvents";
+import Component from "./stateBased/classComponent/EmployeeDetails";
 
 
 ReactDOM.render((
