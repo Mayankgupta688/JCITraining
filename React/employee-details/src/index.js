@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import Component from "./stateBased/classComponent/EmployeeDetails";
+import Component from "./stateBased/classComponent/TimerAgainComponent";
 
 
 ReactDOM.render((
