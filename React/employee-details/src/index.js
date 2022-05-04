@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import Component from "./stateBased/classComponent/TimerAgainComponent";
+import Component from "./stateBased/hooksComponent/CounterComponent";
 
 
 ReactDOM.render((
@@ -7,4 +7,5 @@ ReactDOM.render((
         <Component></Component>
     </div>
 ), document.getElementById("root"));
+
 
