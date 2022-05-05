@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import Component from "./stateBased/hooksComponent/CounterComponent";
+import Component from "./singlePage/SinglePageComponent";
 
 
 ReactDOM.render((
