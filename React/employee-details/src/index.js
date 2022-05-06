@@ -1,10 +1,10 @@
 import ReactDOM from 'react-dom';
-import Component from "./singlePage/SinglePageComponent";
+import Component from "./stateBased/hooksComponent/LazyLoadingComponent";
 
 
 ReactDOM.render((
     <div>
-        <Component></Component>
+        <Component data="2"></Component>
     </div>
 ), document.getElementById("root"));
 
